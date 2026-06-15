@@ -1,0 +1,7 @@
+Library/
+Temp/
+Logs/
+Build/
+.vscode/
+Assembly-CSharp.csproj
+First Game.slnx
